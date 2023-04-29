@@ -20,6 +20,14 @@ Eduction
 - Harbin Engineering University (Aug 2017 - Jun 2021)
     - Bachelor of Computer Science
 
+Publications
+======
+- **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui. 
+
+"A paper for AI4DSDPS (will come soon)". 
+
+Proceedings of Very Large Data Bases Conference (**VLDB**), **Under Revision**, 2023.
+
 Experience
 ======
 - Tencent TEG Research Internship, supervised by Dr. Xiaogang Shi

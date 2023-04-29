@@ -14,26 +14,28 @@ My research interest lies in AI4Systems(Including AI4DB, AI4DSPS), vector databa
 
 Eduction
 ======
-Beijing University of Posts and Telecommunications (Sep 2021 - Now), Ph.D. in Computer Science
+- Beijing University of Posts and Telecommunications (Sep 2021 - Now)
+    - Ph.D. in Computer Science
 
-Harbin Engineering University (Aug 2017 - Jun 2021), Bachelor of Computer Science
+Harbin Engineering University (Aug 2017 - Jun 2021)
+    - Bachelor of Computer Science
 
 Experience
 ======
-Tencent TEG Research Internship, supervised by Dr. Xiaogang Shi
-AI4DSPS, Flink
-Dates Employed: Nov. 2020 - Mar. 2023
-Location Beijing, China
+- Tencent TEG Research Internship, supervised by Dr. Xiaogang Shi
+    - AI4DSPS, Flink
+    - Dates Employed: Nov. 2020 - Mar. 2023
+    - Location Beijing, China
 
-Bytedance Software Engineer Intern
-Database
-Dates Employed: Jun. 2020 - Nov. 2020
-Location Beijing, China
+- Bytedance Software Engineer Intern
+    - Database
+    - Dates Employed: Jun. 2020 - Nov. 2020
+    - Location Beijing, China
 
-YITU Technology Software Engineer Intern
-AI4Cell
-Dates Employed: Jan. 2020 - Jun. 2020
-Location Shanghai, China
+- YITU Technology Software Engineer Intern
+    - AI4Cell
+    - Dates Employed: Jan. 2020 - Jun. 2020
+    - Location Shanghai, China
 
 Getting started
 ======

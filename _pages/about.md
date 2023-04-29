@@ -17,7 +17,7 @@ Eduction
 - Beijing University of Posts and Telecommunications (Sep 2021 - Now)
     - Ph.D. in Computer Science
 
-Harbin Engineering University (Aug 2017 - Jun 2021)
+- Harbin Engineering University (Aug 2017 - Jun 2021)
     - Bachelor of Computer Science
 
 Experience

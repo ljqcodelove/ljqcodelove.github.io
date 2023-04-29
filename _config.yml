@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinqing Lian"
   avatar           : "dannylian.jpg"
-  bio              : "Ph.D. in Computer Science, Beijing University of Posts and Telecommunications"
+  bio              : "Ph.D. in Computer Science, BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

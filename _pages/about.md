@@ -24,8 +24,7 @@ Publications
 ======
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "A paper for AI4DSDPS (will come soon)".  
-Proceedings of Very Large Data Bases Conference (**VLDB**), **Under Revision**, 2023.  
-<font color=Blue>Deployed on Tencent Oceanus</font>
+Proceedings of Very Large Data Bases Conference (**VLDB**), **Under Revision**, 2023. <font color=Blue>Deployed on Tencent Oceanus</font>
 
 Experience
 ======

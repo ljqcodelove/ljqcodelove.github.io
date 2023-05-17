@@ -28,7 +28,7 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), **Under Revision**, 
 
 Experience
 ======
-- Tencent TEG Research Internship, supervised by Dr. Xiaogang Shi
+- Tencent TEG Research Internship, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao)(阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))
     - AI4DSPS, Flink
     - Dates Employed: Nov. 2020 - Mar. 2023
     - Location Beijing, China

@@ -45,4 +45,4 @@ Experience
 
 Honors & Awards
 ======
-- Flink Forward Asia Hackathon **2nd** Place (2 out of 4346 teams) (2022), as the Team leader
+- Tianchi Alibaba Cloud & Inter Flink Forward Asia Hackathon **2nd** Place (2 out of 4346 teams) (2022), as the Team leader

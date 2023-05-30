@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jinqing Lian (连金清), a Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications, advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
+I’m Jinqing Lian (连金清), a Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
+I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
 My research interest lies in AI4Systems(Including AI4DB, AI4DSPS), vector databases, and etc. 
 

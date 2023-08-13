@@ -30,8 +30,9 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), **Under Revision**, 
 Experience
 ======
 - Zilliz Knowhere team Software Engineer Intern, supervised by Li Liu and Zihao Wang.
-    - major in research of filtered search in Vector DB
+    - major in research of filtered search in Vector DB(Milvus)
     - Dates Employed: Aug. 2023 - Now
+    - Remote
 
 - Tencent TEG Research Internship, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))
     - AI4DSPS, Flink

@@ -29,8 +29,9 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2023. <font color=Bl
 
 Experience
 ======
-- Zilliz Knowhere team Software Engineer Intern, supervised by Li Liu and Zihao Wang.
+- Zilliz Knowhere team Research Engineer Intern, supervised by Li Liu and Zihao Wang.
     - major in research of filtered search in Vector DB(Milvus)
+    - major in nips2023 BigANN Contest
     - Dates Employed: Aug. 2023 - Now
     - Remote
 

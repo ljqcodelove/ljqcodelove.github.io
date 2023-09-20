@@ -24,7 +24,7 @@ Eduction
 Publications
 ======
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
-"ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems.".  
+"ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
 Proceedings of Very Large Data Bases Conference (**VLDB**), 2023. <font color=Blue>Deployed on Tencent Oceanus</font>
 
 Experience

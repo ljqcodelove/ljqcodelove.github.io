@@ -29,23 +29,23 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2023. <font color=Bl
 
 Experience
 ======
-- Zilliz Knowhere team Research Engineer Intern, supervised by Li Liu and Zihao Wang.
-    - major in research of filtered search in Vector DB(Milvus)
+- Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu and Zihao Wang.
+    - major in research of filtered search in Vector DB (Milvus)
     - major in nips2023 BigANN Contest
     - Dates Employed: Aug. 2023 - Now
     - Remote
 
-- Tencent TEG Research Internship, Oceanus, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))
+- Tencent TEG Research Intern, Oceanus, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))
     - AI4DSPS, Flink
     - Dates Employed: Nov. 2020 - Mar. 2023
     - Location Beijing, China
 
-- Bytedance Software Engineer Intern
+- Bytedance Software Engineer Intern, Infra team.
     - Database
     - Dates Employed: Jun. 2020 - Nov. 2020
     - Location Beijing, China
 
-- YITU Technology Software Engineer Intern
+- YITU Technology Software Engineer Intern, AI + Cell + Software
     - AI4Cell
     - Dates Employed: Jan. 2020 - Jun. 2020
     - Location Shanghai, China

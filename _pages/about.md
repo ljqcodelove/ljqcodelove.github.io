@@ -13,7 +13,8 @@ I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.
 
 My research interest lies in Knobs Tuning of Distributed Stream Processing Systems(DSDPS), vector databases, and etc. 
 
-<font color = red> test </font>
+<span style="color:red">这是一个红色文本。</span>
+
 **如果您有关于数据库的科研项目且愿意与我合作，十分欢迎您直接联系我或者联系我的博士生导师，我的邮箱是 jinqinglian@bupt.edu.cn**，
 **If you have a research project on databases that you are seeking to collaborate with me on, I would appreciate it if you would contact me or my supervisor directly!!!, My email is jinqinglian@bupt.edu.cn**
 

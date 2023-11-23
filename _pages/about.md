@@ -57,7 +57,7 @@ Experience
 Honors & Awards
 ======
 - Neurips 2023 Big-Ann competition **Champions** of both Sparse and OOD tracks, as the Team member.
-- Tianchi Alibaba Cloud & Inter Flink Forward Asia Hackathon **2nd** Place (2 out of 4346 teams) (2022), as the Team leader
+- Tianchi Alibaba Cloud & Inter Flink Forward Asia Hackathon **2nd** Place (2 out of 4346 teams) (2022), as the Team leader.
 - China Collegiate Programming Contest Final (CCPC-Final) 2019, Beijing - **Silver Medal**.
 - CCF Collegiate Computer Systmes & Programming Contest 2019 - **Silver Medal**.
 - The 2019 ACM-ICPC China HeiLongJiang Provincial Programming Contest - **Gold Medal**.

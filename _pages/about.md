@@ -33,7 +33,7 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), research paper, 2023
 
 Experience
 ======
-- Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu and Zihao Wang.
+- Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu, Zihao Wang and Min Tian.
     - major in research of filtered search in Vector DB (Milvus)
     - major in nips2023 BigANN Contest
     - Dates Employed: Aug. 2023 - Now

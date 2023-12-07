@@ -33,10 +33,15 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), research paper, 2023
 
 Experience
 ======
+- Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan
+  - Auto-management for Apache Spark
+  - Dates Employed: Dec.2023 - Now
+  - Location Beijing, China 
+
 - Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu, Zihao Wang and Min Tian.
     - major in research of filtered search in Vector DB (Milvus)
     - major in nips2023 BigANN Contest
-    - Dates Employed: Aug. 2023 - Now
+    - Dates Employed: Aug. 2023 - Dec. 2023
     - Remote
 
 - Tencent TEG Research Intern, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))

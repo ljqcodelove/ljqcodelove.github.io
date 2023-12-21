@@ -44,17 +44,17 @@ Experience
     - Dates Employed: Aug. 2023 - Dec. 2023
     - Remote
 
-- Tencent TEG Research Intern, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn))
+- Tencent TEG Research Intern, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn)).
     - AI4DSPS, Flink
     - Dates Employed: Nov. 2020 - Mar. 2023
     - Location Beijing, China
 
-- Bytedance Software Engineer Intern, Infra team.
+- Bytedance Software Engineer Intern, Infra team, supervised by Xianen Li and Shunda Wang.
     - Database
     - Dates Employed: Jun. 2020 - Nov. 2020
     - Location Beijing, China
 
-- YITU Technology Software Engineer Intern, AI + Cell + Software
+- YITU Technology Software Engineer Intern, AICELL, supervised by Quanyang Liu and Tao Wang.
     - AI4Cell
     - Dates Employed: Jan. 2020 - Jun. 2020
     - Location Shanghai, China

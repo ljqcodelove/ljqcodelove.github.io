@@ -34,7 +34,7 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), research paper, 2023
 Experience
 ======
 - Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan
-  - Auto-management for Apache Spark
+  - Auto-management for Apache Spark && LLMs for text2sql 
   - Dates Employed: Dec.2023 - Now
   - Location Beijing, China 
 

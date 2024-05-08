@@ -27,6 +27,9 @@ Eduction
 
 Publications
 ======
+- **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.  
+"𝐶h𝑎𝑡𝐵𝐼: Towards Natural Language to Complex Business Intelligence SQL"
+arxiv, 2024. <font color=Blue>Deployed on Baidu MEG MEDD</font>
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
 Proceedings of Very Large Data Bases Conference (**VLDB**), research paper, 2023. <font color=Blue>Deployed on Tencent Oceanus and China Telecom Cloud Computing</font>

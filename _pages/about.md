@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jinqing Lian (连金清), a second-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
+I’m Jinqing Lian, a second-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
 I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
 My research interest lies in Knobs Tuning of Distributed Stream Processing Systems (DSDPS), vector databases, and etc. 

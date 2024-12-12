@@ -65,6 +65,7 @@ Experience
 Honors & Awards
 ======
 - Tianchi Alibaba Cloud & Inter Flink Forward Asia Hackathon **2nd** Place (2 out of 4346 teams) (2022).
+- The 2019, 44th ACM-ICPC Asia Xi'an Regional Contest, Xi'an, **Silver Medal**.
 - The 2019, 44th ACM-ICPC Asia Shanghai Regional Contest, Shanghai, Bronze Medal (**1-st Bronze Medal**, and the board is in [board](https://acm.sdut.edu.cn/acmss/icpc/2019/shanghai/index.html), There were **33** gold medallists and **66** silver medallists in this competition, and our team didn't solve the **second-easiest problem** because we translated "odd" into "even", which made us the **100th** official team and the first bronze medalist)
 - China Collegiate Programming Contest Final (CCPC-Final) 2019, Beijing - **Bronze Medal**.
 - CCF Collegiate Computer Systems & Programming Contest (CCSP) 2019 - **Silver Medal**.

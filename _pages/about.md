@@ -27,8 +27,7 @@ Eduction
 
 Publications
 ======
-- "SHOP" A system for Apache Spark (coming soon)
-<font color=Blue>Deployed on Baidu MEG MEDD</font>
+- "SHOP" A system for Distributed Stream Processing Systems (coming soon) <font color=Blue>Deployed on Baidu MEG MEDD</font>
 - **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.  
 "𝐶h𝑎𝑡𝐵𝐼: Towards Natural Language to Complex Business Intelligence SQL"
 arxiv, 2024. <font color=Blue>Deployed on Baidu MEG MEDD</font>

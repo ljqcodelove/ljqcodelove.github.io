@@ -28,6 +28,9 @@ Eduction
 Publications
 ======
 - "SHOP" A system for Distributed Stream Processing Systems (coming soon) <font color=Blue>Deployed on Baidu MEG MEDD</font>
+- **Jinqing Lian**, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong, Hailin Yan.  
+"𝐶h𝑎𝑡𝐵𝐼2.0: The Next-Generation Business Intelligence System at Baidu"
+Under review. <font color=Blue>Deployed on Baidu MEG MEDD</font>
 - **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.  
 "𝐶h𝑎𝑡𝐵𝐼: Towards Natural Language to Complex Business Intelligence SQL"
 arxiv, 2024. <font color=Blue>Deployed on Baidu MEG MEDD</font>

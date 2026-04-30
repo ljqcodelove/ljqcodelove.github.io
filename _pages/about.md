@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jinqing Lian, a third-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
+I’m Jinqing Lian, a fourth-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
 I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
-My research interest lies in Knobs Tuning of Distributed Stream Processing Systems (DSDPS), text2SQL, and etc. 
+My research interest lies in AI Infra, Knobs Tuning of Distributed Stream Processing Systems (DSDPS) and text2SQL. 
 
-**如果您有关于数据库的科研项目且对我感兴趣，十分欢迎您直接联系我或者联系我的博士生导师，我的邮箱是 jinqinglian@bupt.edu.cn**
+**我将在 2027 年进入业界就业市场**
 
-**If you have a research project on databases that you are seeking to collaborate with me on, I would appreciate it if you would contact me or my supervisor directly!!!, My email is jinqinglian@bupt.edu.cn**
+**I will be on the job market in Fall 2027.**
 
 Eduction
 ======
@@ -27,22 +27,28 @@ Eduction
 
 Publications
 ======
-- "SHOP" A system for Distributed Stream Processing Systems (coming soon) <font color=Blue>Deployed on Baidu MEG MEDD</font>
-- **Jinqing Lian**, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong, Hailin Yan.  
-"𝐶h𝑎𝑡𝐵𝐼2.0: The Next-Generation Business Intelligence System at Baidu"
-Under review. <font color=Blue>Deployed on Baidu MEG MEDD</font>
-- **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.  
-"𝐶h𝑎𝑡𝐵𝐼: Towards Natural Language to Complex Business Intelligence SQL"
-arxiv, 2024. <font color=Blue>Deployed on Baidu MEG MEDD</font>
+- **Jinqing Lian**, Chaofan Li, Yingxia Shao, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong.  
+"CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu." 
+(Conditionally Accepted) VLDB 2026. <font color=Blue>Deployed on Baidu MEG MEDD</font>
+
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
-Proceedings of Very Large Data Bases Conference (**VLDB**), research paper, 2023. <font color=Blue>Deployed on Tencent Oceanus and China Telecom Cloud Computing</font>
+VLDB 2023. <font color=Blue>Deployed on Tencent Oceanus and China Telecom Cloud Computing</font>
+
+- 19th author  
+"RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
+Technique Report, <font color=Blue>Deployed on Alibaba</font>
 
 Experience
 ======
+- DAMO Intelligent Engine Research Intern, AI Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao) and Yan Zhang
+  - AI Infra && LLM tensors compression
+  - Dates Employed: Nov.2025 - Now
+  - Location Beijing, China
+
 - Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan and Chaoxian Gui
   - Auto-management for Apache Spark && text2sql 
-  - Dates Employed: Dec.2023 - Now
+  - Dates Employed: Dec.2023 - Aug. 2025
   - Location Beijing, China 
 
 - Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu, Zihao Wang and Min Tian.

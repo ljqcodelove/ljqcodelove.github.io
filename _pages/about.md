@@ -43,7 +43,7 @@ Experience
 ======
 - DAMO Intelligent Engine Research Intern, AI Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao) and Yan Zhang
   - AI Infra && LLM tensors compression
-  - Dates Employed: Nov.2025 - Now
+  - Dates Employed: Aug.2025 - Now
   - Location Beijing, China
 
 - Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan and Chaoxian Gui

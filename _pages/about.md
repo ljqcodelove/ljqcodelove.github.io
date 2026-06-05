@@ -51,7 +51,7 @@ Experience
   - Dates Employed: Dec.2023 - Aug. 2025
   - Location Beijing, China 
 
-- Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu, Zihao Wang and Min Tian.
+- Zilliz Milvus Research Intern, Knowhere team, supervised by Li Liu, [Zihao Wang](https://github.com/hhy3) and Min Tian.
     - major in research of filtered search in Vector DB (Milvus)
     - major in nips2023 BigANN Contest
     - Dates Employed: Aug. 2023 - Dec. 2023

@@ -33,7 +33,7 @@ Publications
 
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
-VLDB 2023. <font color=Blue>Deployed on Tencent Oceanus and China Telecom Cloud Computing</font>
+VLDB 2023. <font color=Blue>Deployed on Tencent Oceanus, Baidu MEG and China Telecom Cloud Computing</font>
 
 - 19th author  
 "RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  

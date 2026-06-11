@@ -41,7 +41,7 @@ Technique Report, <font color=Blue>Deployed on Alibaba</font>
 
 Experience
 ======
-- DAMO Intelligent Engine Research Intern, AI Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao) and Yan Zhang
+- DAMO HappyHorse Infra, AI Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao) and Yan Zhang
   - AI Infra && LLM tensors compression
   - Dates Employed: Aug.2025 - Now
   - Location Beijing, China

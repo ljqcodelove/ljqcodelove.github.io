@@ -29,7 +29,7 @@ Publications
 ======
 - **Jinqing Lian**, Chaofan Li, Yingxia Shao, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong.  
 "CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu." 
-(to appear) VLDB 2026. <font color=Blue>Deployed on Baidu MEG MEDD</font>
+VLDB 2026. <font color=Blue>Deployed on Baidu MEG MEDD</font>
 
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  

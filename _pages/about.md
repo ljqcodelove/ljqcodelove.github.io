@@ -46,7 +46,7 @@ Experience
   - Dates Employed: Aug.2025 - Now
   - Location Beijing, China
 
-- Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan and Chaoxian Gui
+- Baidu Data platform Research Intern, Apache Spark supervised by Tianqi Wan, Chaoxian Gui and Ming Dong.
   - Auto-management for Apache Spark && text2sql 
   - Dates Employed: Dec.2023 - Aug. 2025
   - Location Beijing, China 

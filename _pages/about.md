@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jinqing Lian, a fourth-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
+I’m Jinqing Lian, a fifth-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
 I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
 My research interest lies in AI Infra, Knobs Tuning of Distributed Stream Processing Systems (DSDPS) and text2SQL. 
@@ -29,15 +29,17 @@ Publications
 ======
 - **Jinqing Lian**, Chaofan Li, Yingxia Shao, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong.  
 "CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu." 
-VLDB 2026. <font color=Blue>Deployed on Baidu MEG MEDD</font>
+**VLDB 2026**. <font color=Blue>Deployed on Baidu MEG MEDD</font>
 
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
 "ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
-VLDB 2023. <font color=Blue>Deployed on Tencent Oceanus, Baidu MEG and China Telecom Cloud Computing</font>
+**VLDB 2023**. <font color=Blue>Deployed on Tencent Oceanus, Baidu MEG and China Telecom Cloud Computing</font>
 
 - 19th author  
 "RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
 Technique Report, <font color=Blue>Deployed on Alibaba</font>
+
+<font color=Blue>When will my first SIGMOD paper be accepted? (Has not submitted to SIGMOD yet). Come on, Danny.</font>
 
 Experience
 ======

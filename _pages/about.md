@@ -13,9 +13,12 @@ I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.
 
 My research interest lies in AI Infra, Knobs Tuning of Distributed Stream Processing Systems (DSDPS) and text2SQL. 
 
+
 **我将在 2027 年进入业界就业市场**
 
 **I will be on the job market in Fall 2027.**
+
+Email: jinqinglian [AT] bupt.edu.cn
 
 Eduction
 ======

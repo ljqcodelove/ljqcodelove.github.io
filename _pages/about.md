@@ -11,7 +11,7 @@ redirect_from:
 I’m Jinqing Lian, a fifth-year (counting from 0) Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
 I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
-My research interest lies in AI Infra, Knobs Tuning of Distributed Stream Processing Systems (DSDPS) and text2SQL. 
+My research interest lies in Infra, Knobs Tuning of Databases and text2SQL. 
 
 
 **我将在 2027 年进入业界就业市场**
@@ -42,12 +42,11 @@ Publications
 "RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
 Technique Report, <font color=Blue>Deployed on Alibaba</font>
 
-<font color=Blue>When will my first SIGMOD paper be accepted? (Has not submitted to SIGMOD yet). Come on, Danny.</font>
 
 Experience
 ======
-- Alibaba HappyHorse Infra, AI Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao), Yan Zhang and Jiamang Wang.
-  - AI Infra && LLM tensors compression
+- Alibaba HappyHorse Infra, Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao), Yan Zhang and Jiamang Wang.
+  - Infra && Lossless compression
   - Dates Employed: Aug.2025 - Now
   - Location Beijing, China
 
@@ -63,7 +62,7 @@ Experience
     - Remote
 
 - Tencent TEG Research Intern, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn)).
-    - AI4DSPS, Flink
+    - Apache Flink
     - Dates Employed: Nov. 2020 - Mar. 2023
     - Location Beijing, China
 
@@ -73,7 +72,7 @@ Experience
     - Location Beijing, China
 
 - YITU Technology Software Engineer Intern, AICELL, supervised by Quanyang Liu and Tao Wang.
-    - AI4Cell
+    - Monetization Product Group
     - Dates Employed: Jan. 2020 - Jun. 2020
     - Location Shanghai, China
 

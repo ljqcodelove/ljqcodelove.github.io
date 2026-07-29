@@ -45,7 +45,7 @@ Technique Report, <font color=Blue>Deployed on Alibaba</font>
 
 Experience
 ======
-- Alibaba HappyHorse Infra, Infra supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao), Yan Zhang and Jiamang Wang.
+- Alibaba HappyHorse Infra, **AliStar Program Intern** supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao), Yan Zhang and Jiamang Wang.
   - Infra && Lossless compression
   - Dates Employed: Aug.2025 - Now
   - Location Beijing, China
@@ -61,7 +61,7 @@ Experience
     - Dates Employed: Aug. 2023 - Dec. 2023
     - Remote
 
-- Tencent TEG Research Intern, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn)).
+- Tencent TEG **Rhino-Bird Talent Program Intern**, Oceanus (Apache Flink in Tencent) team, supervised by [Dr. Xiaogang Shi](https://scholar.google.com/citations?user=W_N7_3cAAAAJ&hl=zh-CN&oi=ao) (阿里星, [in](https://www.linkedin.com/in/xiaogang-shi-8467a9a8/?originalSubdomain=cn)).
     - Apache Flink
     - Dates Employed: Nov. 2020 - Mar. 2023
     - Location Beijing, China

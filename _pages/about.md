@@ -71,7 +71,7 @@ Experience
     - Dates Employed: Jun. 2020 - Nov. 2020
     - Location Beijing, China
 
-- YITU Technology Software Engineer Intern, AICELL, supervised by Quanyang Liu and Tao Wang.
+- YITU Technology Software Engineer Intern, supervised by Quanyang Liu and Tao Wang.
     - Monetization Product Group
     - Dates Employed: Jan. 2020 - Jun. 2020
     - Location Shanghai, China

@@ -31,15 +31,18 @@ Eduction
 Publications
 ======
 - **Jinqing Lian**, Chaofan Li, Yingxia Shao, Ming Wang, Yang Dong, Xinyi Liu, Wei Zhang, Chaoxian Gui, Tianqi Wan, Ming Dong.  
-"CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu." 
+"CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu" 
 **VLDB 2026**. <font color=Blue>Deployed on Baidu MEG MEDD</font>
 
 - **Jinqing Lian**, Xinyi Zhang, Yingxia Shao, Zenglin Pu, Qingfeng Xiang, Yawen Li, Bin Cui.  
-"ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems."  
+"ContTune: Continuous Tuning by Conservative Bayesian Optimization for Distributed Stream Data Processing Systems"  
 **VLDB 2023**. <font color=Blue>Deployed on Tencent Oceanus, Baidu MEG and China Telecom Cloud Computing</font>
 
-- 19th author  
-"RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
+- **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.    
+"Chatbi: Towards natural language to complex business intelligence sql"
+(arxiv) <font color=Blue>Deployed on Baidu MEG MEDD</font>
+
+- "RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
 Technique Report, <font color=Blue>Deployed on Alibaba</font>
 
 

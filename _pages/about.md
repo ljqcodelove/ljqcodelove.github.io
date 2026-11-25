@@ -11,7 +11,7 @@ redirect_from:
 I’m Jinqing Lian, a final-year Ph.D. student majoring in Computer Science at Beijing University of Posts and Telecommunications. 
 I am very fortunate to be advised by Prof. [Yingxia Shao](https://shaoyx.github.io/). 
 
-My research interest lies in Infra, Knobs Tuning of Databases and text2SQL. 
+My research interest lies in Data Infra, Knobs Tuning of Databases and text2SQL. 
 
 
 **我将在 2027 年进入业界就业市场**
@@ -40,7 +40,7 @@ Publications
 
 - **Jinqing Lian**, Xinyi Liu, Yingxia Shao, Yang Dong, Ming Wang, Wei Zhang, Tianqi Wan, Ming Dong, Hailin Yan.    
 "Chatbi: Towards natural language to complex business intelligence sql"
-(arxiv) <font color=Blue>Deployed on Baidu MEG MEDD</font>
+Technique Report, <font color=Blue>Deployed on Baidu MEG MEDD</font>
 
 - "RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models"  
 Technique Report, <font color=Blue>Deployed on Alibaba</font>
@@ -49,7 +49,7 @@ Technique Report, <font color=Blue>Deployed on Alibaba</font>
 Experience
 ======
 - Alibaba HappyHorse Infra, **AliStar Program Intern** supervised by [Dr. Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=zh-CN&oi=ao), Yan Zhang and Jiamang Wang.
-  - Infra && Lossless compression
+  - Data Infra && Lossless compression
   - Dates Employed: Aug.2025 - Now
   - Location Beijing, China
 
